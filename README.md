@@ -16,7 +16,7 @@ Project is created with:
 To run this application locally, follow these steps:
 
 ```
-$ git clone [https://github.com/em1png/Currency-Converter](https://github.com/em1png/TODO)
+$ git clone https://github.com/em1png/TODO
 $ cd TODO
 $ npm install
 $ npm run dev
